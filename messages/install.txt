@@ -1,0 +1,7 @@
+SublimeLinter-gofumports
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to gofumports.
+
+More info: https://github.com/pztrn/SublimeLinter-gofumports
+
+It is recommended to set always_prompt_for_file_reload to false to avoid popups about file reloading to appear as this linter will auto-fix imports!
